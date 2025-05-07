@@ -1,0 +1,65 @@
+{
+  "slug": "Berg",
+  "name": "Berg",
+  "version": "2.6.3",
+  "license": "GPL-3.0-or-later",
+  "brand": "Berg",
+  "author": "Giuseppe Bergamino",
+  "authorEmail": "g.bergamino@pm.univpm.it",
+  "authorUrl": "https://giuseppebergamino.github.io/Home/",
+  "pluginUrl": "",
+  "manualUrl": "",
+  "sourceUrl": "",
+  "donateUrl": "",
+  "changelogUrl": "",
+  "modules": [
+     {
+      "slug": "Pomodrone",
+      "name": "Pomodrone",
+      "description": "A very concentrate synth",
+      "tags": [
+        "Synth voice"
+      ]
+    },
+     {
+      "slug": "Macro",
+      "name": "Macro",
+      "description": "A very useful thing for CVs",
+      "tags": [
+        "Utility"
+      ]
+    },
+     {
+      "slug": "Rikeda",
+      "name": "Rikeda",
+      "description": "A very useful thing for gates",
+      "tags": [
+        "Utility"
+      ]
+    },
+     {
+      "slug": "Taig",
+      "name": "Taig",
+      "description": "A very useful thing for triggers",
+      "tags": [
+        "Utility"
+      ]
+    },
+     {
+      "slug": "Rizl",
+      "name": "Rizl",
+      "description": "A very strainer multimode filter",
+      "tags": [
+        "Filter"
+      ]
+    },
+     {
+      "slug": "Mixa",
+      "name": "Mixa",
+      "description": "A very mixing thing",
+      "tags": [
+        "Mixer"
+      ]
+    }
+  ]
+}
